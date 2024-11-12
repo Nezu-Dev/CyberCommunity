@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\personnelreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|solutionrelative:personnelreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\personnelreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|solutionrelative:personnelreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\adminfirstpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|solutionrelative:adminfirstpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|c:\\users\\fatih\\source\\repos\\hackerlogindesigner\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\adminfirstpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|solutionrelative:adminfirstpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\user dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|solutionrelative:user dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|c:\\users\\fatih\\source\\repos\\hackerlogindesigner\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD40AAC-7DAA-4C88-AC64-0840A5043162}|HackerLoginDesigner.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminFirstPage.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\AdminFirstPage.cs",
+              "RelativeDocumentMoniker": "AdminFirstPage.cs",
+              "ToolTip": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\AdminFirstPage.cs",
+              "RelativeToolTip": "AdminFirstPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:17:47.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\Admin.cs [Design]",
+              "RelativeToolTip": "Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:39:52.406Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminFirstPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\AdminFirstPage.cs",
+              "RelativeDocumentMoniker": "AdminFirstPage.cs",
+              "ToolTip": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\AdminFirstPage.cs [Design]",
+              "RelativeToolTip": "AdminFirstPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:58:17.493Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonnelReg.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\PersonnelReg.cs",
+              "RelativeDocumentMoniker": "PersonnelReg.cs",
+              "ToolTip": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\PersonnelReg.cs [Design]",
+              "RelativeToolTip": "PersonnelReg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:14:25.979Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\LogIn.cs",
+              "RelativeDocumentMoniker": "LogIn.cs",
+              "ToolTip": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\LogIn.cs [Design]",
+              "RelativeToolTip": "LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:57:34.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:53:46.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\LogIn.cs",
+              "RelativeDocumentMoniker": "LogIn.cs",
+              "ToolTip": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\LogIn.cs",
+              "RelativeToolTip": "LogIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:48:52.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\User Dashboard.cs",
+              "RelativeDocumentMoniker": "User Dashboard.cs",
+              "ToolTip": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\User Dashboard.cs",
+              "RelativeToolTip": "User Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:32:20.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonnelReg.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\PersonnelReg.cs",
+              "RelativeDocumentMoniker": "PersonnelReg.cs",
+              "ToolTip": "C:\\Users\\Fatih\\source\\repos\\HackerLoginDesigner\\PersonnelReg.cs",
+              "RelativeToolTip": "PersonnelReg.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wD0AAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:19:23.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

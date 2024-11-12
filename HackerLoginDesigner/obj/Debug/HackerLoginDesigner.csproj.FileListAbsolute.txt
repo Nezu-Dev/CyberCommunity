@@ -1,0 +1,17 @@
+C:\Users\Fatih\source\repos\HackerLoginDesigner\bin\Debug\HackerLoginDesigner.exe.config
+C:\Users\Fatih\source\repos\HackerLoginDesigner\bin\Debug\HackerLoginDesigner.exe
+C:\Users\Fatih\source\repos\HackerLoginDesigner\bin\Debug\HackerLoginDesigner.pdb
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.Properties.Resources.resources
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.exe
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.pdb
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.Registery.resources
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.SignUp.resources
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.ForgotPassword.resources
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.UserAdmin.resources
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.Admin.resources
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.AdminFirstPage.resources
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.PersonnelReg.resources
+C:\Users\Fatih\source\repos\HackerLoginDesigner\obj\Debug\HackerLoginDesigner.UserLogIn.resources
